@@ -34,15 +34,17 @@ https://www.wisdomgeek.com/development/data-science/converting-business-problem-
 
    - Doctors often under estimate the progress of type II adult onset diabetes after diagnosis. Often resulting in the insufficient medical interventions and reduced health outcomes for patients.
 
-   - Doctors would like a valid and reliable tool for doctors to be able to enter an individuals health data and be provided with a valid and reliable prediction of the disease progression over the patients next 12 months.
+   - Doctors would like a valid and reliable tool for doctors to be able to enter an individuals health data and be provided with a valid and reliable prediction of the disease progression over the patients next 12 months customised by gender.
 
 2. Refactoring the business problem into a machine learning problem
 
-   - _Students to refactor the provided business problem_
+- A linear regression ML model that predict disease progression over 12 months based on input features provided by doctors
 
 3. Defining success metrics
 
-   - _Students to define success metrics_
+- Model generalises well to training data
+- Model generalises well to testing data
+- Model generalises well to new data (captured during operations)
 
 4. Researching available data.
 
